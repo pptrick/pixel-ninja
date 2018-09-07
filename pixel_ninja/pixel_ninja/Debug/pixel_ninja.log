@@ -1,0 +1,7 @@
+﻿  pixel_ninja.cpp
+c:\users\administrator\desktop\pixel_ninja\pixel_ninja\pixel_ninja.cpp(645): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\pixel_ninja\pixel_ninja\pixel_ninja.cpp(700): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\pixel_ninja\pixel_ninja\pixel_ninja.cpp(831): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\pixel_ninja\pixel_ninja\pixel_ninja.cpp(832): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\pixel_ninja\pixel_ninja\pixel_ninja.cpp(903): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  pixel_ninja.vcxproj -> C:\Users\Administrator\Desktop\pixel_ninja\Debug\pixel_ninja.exe
